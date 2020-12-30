@@ -605,6 +605,9 @@ a[class*="text-"]:not(.nav-link):not(.dropdown-item):not([role]):hover {
 .mbr-gallery-filter li.active .btn:focus {
   box-shadow: none;
 }
+.hamburger {
+  color: #ffffff;
+}
 a,
 a:hover {
   color: #000000;
