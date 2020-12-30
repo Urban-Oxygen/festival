@@ -434,10 +434,6 @@ nav .mbr-section-btn {
 .nav-link .mbr-iconfont {
   margin-right: .5rem; }
 
-.hamburger {
-	color: #fff;
-}
-
 .navbar {
   display: -webkit-flex;
   -webkit-flex-wrap: wrap;
